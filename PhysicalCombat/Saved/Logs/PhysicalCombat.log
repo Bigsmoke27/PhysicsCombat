@@ -1257,3 +1257,536 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.24-13.17.07:323][446]AssetCheck: New page: Asset Save: multiple assets
 [2023.09.24-13.17.07:338][446]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP.Damage_Test_Actor_BP
 [2023.09.24-13.17.07:356][446]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/BPA_DamageAct.BPA_DamageAct
+[2023.09.24-13.27.29:331][331]LogSlate: Took 0.033127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.24-13.27.29:511][332]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.28.35:439][ 35]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.09.24-13.28.50:940][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.28.52:902][402]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2023.09.24-13.28.53:009][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2023.09.24-13.28.53:009][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2023.09.24-13.28.53:009][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2023.09.24-13.28.53:011][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2023.09.24-13.28.53:011][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2023.09.24-13.28.53:011][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2023.09.24-13.28.53:012][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2023.09.24-13.28.53:012][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2023.09.24-13.28.53:012][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2023.09.24-13.28.53:013][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2023.09.24-13.28.53:013][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2023.09.24-13.28.53:014][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2023.09.24-13.28.53:014][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2023.09.24-13.28.53:075][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Epic/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2023.09.24-13.28.53:692][408]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.28.57:779][484]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim.Damage_Anim
+[2023.09.24-13.28.57:815][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.28.57:815][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.28.57:842][484]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.24-13.28.58:376][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.28.58:376][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.28.58:770][484]LogViewport: Scene viewport resized to 1139x505, mode Windowed.
+[2023.09.24-13.28.58:806][484]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.24-13.29.02:321][525]LogSlate: Window 'Damage_Anim' being destroyed
+[2023.09.24-13.29.02:544][525]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.29.02:544][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.29.02:736][525]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.29.02:736][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.29.05:207][585]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl.Damage_Anim_Crawl
+[2023.09.24-13.29.05:208][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.29.05:208][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.29.05:398][585]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.24-13.29.06:017][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.29.06:018][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.29.06:354][585]LogViewport: Scene viewport resized to 1139x505, mode Windowed.
+[2023.09.24-13.29.06:490][586]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.24-13.29.18:336][751]LogViewport: Scene viewport resized to 474x392, mode Windowed.
+[2023.09.24-13.29.18:377][751]LogViewport: Scene viewport resized to 1135x522, mode Windowed.
+[2023.09.24-13.29.18:474][752]LogViewport: Scene viewport resized to 474x374, mode Windowed.
+[2023.09.24-13.29.18:720][753]LogViewport: Scene viewport resized to 463x165, mode Windowed.
+[2023.09.24-13.29.18:791][754]LogViewport: Scene viewport resized to 1139x505, mode Windowed.
+[2023.09.24-13.29.19:450][775]LogSlate: Window 'Damage_Anim_Crawl' being destroyed
+[2023.09.24-13.29.19:539][775]LogViewport: Scene viewport resized to 1139x518, mode Windowed.
+[2023.09.24-13.29.19:592][776]LogViewport: Scene viewport resized to 1139x505, mode Windowed.
+[2023.09.24-13.29.20:792][799]LogViewport: Scene viewport resized to 1147x803, mode Windowed.
+[2023.09.24-13.29.20:833][799]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.24-13.29.22:527][832]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.29.22:527][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.29.22:614][832]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.29.22:614][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.29.36:435][161]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Fall_Flat.Fall_Flat
+[2023.09.24-13.30.08:698][793]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.30.08:698][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.30.08:746][793]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.30.08:746][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.30.18:412][ 38]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl.Damage_Anim_Crawl
+[2023.09.24-13.30.18:412][ 38]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.30.18:412][ 38]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.30.18:508][ 38]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.24-13.30.18:745][ 38]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.30.18:745][ 38]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.30.18:901][ 38]LogViewport: Scene viewport resized to 1139x505, mode Windowed.
+[2023.09.24-13.30.18:929][ 38]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.09.24-13.30.59:495][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.09.24-13.30.59:498][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL' took 0.250
+[2023.09.24-13.30.59:499][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl] ([1] browsable assets)...
+[2023.09.24-13.30.59:712][531]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl.Damage_Anim_Crawl]
+[2023.09.24-13.30.59:712][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl]
+[2023.09.24-13.30.59:716][531]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl_Auto2
+[2023.09.24-13.30.59:717][531]LogSavePackage: Moving '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/Damage_Anim_Crawl_Auto2EEBD1ABD4B5C65FF375627B1C9E6E65E.tmp' to '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/Autosaves/Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl_Auto2.uasset'
+[2023.09.24-13.30.59:718][531]LogFileHelpers: Auto-saving content packages took 0.219
+[2023.09.24-13.35.32:236][475]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.35.32:406][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.35.34:274][475]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.35.34:274][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.37.00:013][224]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.37.00:822][225]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: ================================================
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 5 distinct outputs (15.62%)
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: RAM used: 703.43 KiB of 819.20 MiB budget. Usage: 0.08%
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.24-13.37.04:456][225]LogShaderCompilers: Display: ================================================
+[2023.09.24-13.37.06:443][309]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.37.26:462][343]LogSlate: Took 0.016992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.24-13.38.17:523][112]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.09.24-13.38.17:523][112]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.09.24-13.39.02:996][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-13.39.03:872][664]LogSavePackage: Moving output files for package: /Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP
+[2023.09.24-13.39.03:872][664]LogSavePackage: Moving '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/Damage_Test_Actor_BP5BE8EFEF4360E2ED124620B9A48DC90E.tmp' to '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP.uasset'
+[2023.09.24-13.39.04:048][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.05 sec (total: 1.67 sec)
+[2023.09.24-13.39.04:344][664]AssetCheck: New page: Asset Save: Damage_Test_Actor_BP
+[2023.09.24-13.39.04:344][664]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP.Damage_Test_Actor_BP
+[2023.09.24-13.39.10:490][805]BlueprintLog: New page: Compile Damage_Test_Actor_BP
+[2023.09.24-13.39.16:188][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.09.24-13.39.21:329][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.39.21:757][107]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.24-13.39.23:849][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.24:904][310]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.24-13.39.25:324][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.24-13.39.25:549][310]PIE: New page: PIE session: AnimationTest_LVL (25-Sep-2023, 12:39:25 am)
+[2023.09.24-13.39.25:656][310]LogPlayLevel: Creating play world package: /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL
+[2023.09.24-13.39.26:165][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.507628s)
+[2023.09.24-13.39.26:165][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL.AnimationTest_LVL to /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL.AnimationTest_LVL (0.507764s)
+[2023.09.24-13.39.26:210][310]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.39.26:303][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.39.26:363][310]LogAIModule: Creating AISystem for world AnimationTest_LVL
+[2023.09.24-13.39.26:528][310]LogPlayLevel: PIE: World Init took: (0.362801s)
+[2023.09.24-13.39.26:733][310]LogUObjectHash: Compacting FUObjectHashTables data took  10.90ms
+[2023.09.24-13.39.26:834][310]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.09.24-13.39.26:952][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.24-13.39.26:952][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.24-13.39.26:952][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.24-13.39.26:952][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.24-13.39.26:952][310]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.24-13.39.26:952][310]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.24-13.39.26:952][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.24-13.39.26:952][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.24-13.39.27:063][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.24-13.39.27:063][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.24-13.39.27:063][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.24-13.39.27:127][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.24-13.39.27:522][310]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.09.24-13.39.27:579][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.24-13.39.27:579][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.24-13.39.27:592][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.24-13.39.27:646][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.09.24-13.39.27:646][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.09.24-13.39.27:669][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.09.24-13.39.27:669][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.09.24-13.39.27:673][310]LogInit: FAudioDevice initialized with ID 3.
+[2023.09.24-13.39.27:674][310]LogAudio: Display: Audio Device (ID: 3) registered with world 'AnimationTest_LVL'.
+[2023.09.24-13.39.27:675][310]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.09.24-13.39.27:696][310]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=3
+[2023.09.24-13.39.28:197][310]LogLoad: Game class is 'Testing_GM_BP_C'
+[2023.09.24-13.39.28:239][310]LogWorld: Bringing World /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL.AnimationTest_LVL up for play (max tick rate 0) at 2023.09.24-19.09.28
+[2023.09.24-13.39.28:251][310]LogWorld: Bringing up level for play took: 0.053516
+[2023.09.24-13.39.28:649][310]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.09.24-13.39.29:383][310]PIE: Server logged in
+[2023.09.24-13.39.29:393][310]PIE: Play in editor total start time 4.276 seconds.
+[2023.09.24-13.39.30:361][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.30:362][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.30:363][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.30:363][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.30:364][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.30:364][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.30:365][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.30:365][310]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.36:166][556]LogBlueprintUserMessages: [Projectile_Test_BP_C_0] NoDamageComponentFound!
+[2023.09.24-13.39.36:934][602]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.LeftLeg Manny_LegL
+[2023.09.24-13.39.37:112][602]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.LeftThigh Manny_ThighL
+[2023.09.24-13.39.37:121][603]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.RightThigh Manny_ThighR
+[2023.09.24-13.39.37:187][603]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2023.09.24-13.39.37:227][604]LogBlueprintUserMessages: [Projectile_Test_BP_C_1] NoDamageComponentFound!
+[2023.09.24-13.39.44:832][ 95]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.Torso Manny_Torso
+[2023.09.24-13.39.51:889][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-13.39.51:889][612]LogWorld: BeginTearingDown for /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL
+[2023.09.24-13.39.52:054][612]LogWorld: UWorld::CleanupWorld for AnimationTest_LVL, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.39.52:083][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.39.52:421][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.24-13.39.52:455][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.39.52:493][612]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.24-13.39.52:545][612]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.09.24-13.39.52:577][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.24-13.39.52:579][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.24-13.39.52:589][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-13.39.52:846][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.09.24-13.39.53:103][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.53:105][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.53:105][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.53:105][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.53:106][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.39.53:114][613]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.09.24-13.40.06:049][833]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.09.24-13.40.36:722][536]BlueprintLog: New page: Compile Damage_Test_Actor_BP
+[2023.09.24-13.40.36:989][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.09.24-13.40.41:206][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.40.42:612][ 42]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.24-13.40.42:619][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.24-13.40.42:620][ 42]PIE: New page: PIE session: AnimationTest_LVL (25-Sep-2023, 12:40:42 am)
+[2023.09.24-13.40.42:620][ 42]LogPlayLevel: Creating play world package: /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL
+[2023.09.24-13.40.42:624][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003548s)
+[2023.09.24-13.40.42:624][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL.AnimationTest_LVL to /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL.AnimationTest_LVL (0.003708s)
+[2023.09.24-13.40.42:624][ 42]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.40.42:624][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.40.42:624][ 42]LogAIModule: Creating AISystem for world AnimationTest_LVL
+[2023.09.24-13.40.42:625][ 42]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2023.09.24-13.40.42:654][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.09.24-13.40.42:658][ 42]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.09.24-13.40.42:658][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.24-13.40.42:658][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.24-13.40.42:658][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.24-13.40.42:658][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.24-13.40.42:658][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.24-13.40.42:658][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.24-13.40.42:658][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.24-13.40.42:658][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.24-13.40.42:658][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.24-13.40.42:658][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.24-13.40.42:658][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.24-13.40.42:660][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.24-13.40.42:804][ 42]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.09.24-13.40.42:804][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.24-13.40.42:804][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.24-13.40.42:804][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.24-13.40.42:805][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.09.24-13.40.42:805][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.09.24-13.40.42:808][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.09.24-13.40.42:808][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.09.24-13.40.42:808][ 42]LogInit: FAudioDevice initialized with ID 4.
+[2023.09.24-13.40.42:808][ 42]LogAudio: Display: Audio Device (ID: 4) registered with world 'AnimationTest_LVL'.
+[2023.09.24-13.40.42:808][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.24-13.40.42:812][ 42]LogLoad: Game class is 'Testing_GM_BP_C'
+[2023.09.24-13.40.42:815][ 42]LogWorld: Bringing World /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL.AnimationTest_LVL up for play (max tick rate 0) at 2023.09.24-19.10.42
+[2023.09.24-13.40.42:816][ 42]LogWorld: Bringing up level for play took: 0.003867
+[2023.09.24-13.40.42:818][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.09.24-13.40.42:819][ 42]PIE: Server logged in
+[2023.09.24-13.40.42:820][ 42]PIE: Play in editor total start time 0.201 seconds.
+[2023.09.24-13.40.42:839][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.40.42:840][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.40.42:840][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.40.42:841][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.40.42:841][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.40.42:842][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.40.42:842][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.40.42:843][ 42]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.40.43:583][ 45]LogSlate: Took 0.029314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.24-13.40.46:522][188]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.LeftThigh Manny_ThighL
+[2023.09.24-13.40.46:535][189]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.RightThigh Manny_ThighR
+[2023.09.24-13.40.46:554][190]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.LeftLeg Manny_LegL
+[2023.09.24-13.40.46:612][193]LogBlueprintUserMessages: [Projectile_Test_BP_C_0] NoDamageComponentFound!
+[2023.09.24-13.40.46:613][193]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2023.09.24-13.40.49:772][379]LogBlueprintUserMessages: [Projectile_Test_BP_C_1] NoDamageComponentFound!
+[2023.09.24-13.40.50:350][409]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.LeftThigh Manny_ThighL
+[2023.09.24-13.40.50:432][414]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2023.09.24-13.40.52:653][547]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.RightThigh Manny_ThighR
+[2023.09.24-13.40.52:737][552]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2023.09.24-13.40.55:452][704]LogBlueprintUserMessages: [Projectile_Test_BP_C_4] NoDamageComponentFound!
+[2023.09.24-13.40.56:325][765]LogBlueprintUserMessages: [Projectile_Test_BP_C_5] NoDamageComponentFound!
+[2023.09.24-13.40.56:836][801]LogBlueprintUserMessages: [Projectile_Test_BP_C_6] NoDamageComponentFound!
+[2023.09.24-13.40.57:504][848]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.RightArm Manny_ArmR
+[2023.09.24-13.40.57:517][849]LogBlueprintUserMessages: [Projectile_Test_BP_C_7] NoDamageComponentFound!
+[2023.09.24-13.40.58:104][890]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.RightArm Manny_ArmR
+[2023.09.24-13.40.58:733][934]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.RightElbow Manny_ElbowR
+[2023.09.24-13.40.58:745][935]LogBlueprintUserMessages: [Projectile_Test_BP_C_9] NoDamageComponentFound!
+[2023.09.24-13.40.59:420][982]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.RightElbow Manny_ElbowR
+[2023.09.24-13.41.01:433][123]LogBlueprintUserMessages: [Projectile_Test_BP_C_11] NoDamageComponentFound!
+[2023.09.24-13.41.02:007][164]LogBlueprintUserMessages: [Projectile_Test_BP_C_12] NoDamageComponentFound!
+[2023.09.24-13.41.02:492][198]LogBlueprintUserMessages: [Projectile_Test_BP_C_13] NoDamageComponentFound!
+[2023.09.24-13.41.02:966][231]LogBlueprintUserMessages: [Projectile_Test_BP_C_14] NoDamageComponentFound!
+[2023.09.24-13.41.03:338][257]LogBlueprintUserMessages: [Projectile_Test_BP_C_15] NoDamageComponentFound!
+[2023.09.24-13.41.06:146][438]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.Torso Manny_Torso
+[2023.09.24-13.41.06:721][479]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.LeftHand Manny_PalmL
+[2023.09.24-13.41.07:205][512]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.Head Manny_Head
+[2023.09.24-13.41.15:687][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-13.41.15:687][108]LogWorld: BeginTearingDown for /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL
+[2023.09.24-13.41.15:687][108]LogWorld: UWorld::CleanupWorld for AnimationTest_LVL, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.41.15:688][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.41.15:692][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.24-13.41.15:698][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.41.15:793][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.24-13.41.15:794][108]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.24-13.41.15:794][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.24-13.41.15:796][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.24-13.41.15:832][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-13.41.15:838][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.09.24-13.41.15:881][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.41.15:881][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.41.15:882][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.41.15:883][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.41.15:883][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.41.15:887][109]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.09.24-13.42.00:344][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.09.24-13.42.00:668][241]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL_Auto3
+[2023.09.24-13.42.00:668][241]LogSavePackage: Moving '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/AnimationTest_LVL_Auto37AE2CE5F43E673B0D8D8FDA20FAAC5C4.tmp' to '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/Autosaves/Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL_Auto3.umap'
+[2023.09.24-13.42.01:515][241]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL' took 1.197
+[2023.09.24-13.42.01:515][241]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.197
+[2023.09.24-13.42.01:516][241]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP] ([2] browsable assets)...
+[2023.09.24-13.42.01:554][241]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP.Damage_Test_Actor_BP]
+[2023.09.24-13.42.01:554][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP]
+[2023.09.24-13.42.01:607][241]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP_Auto3
+[2023.09.24-13.42.01:608][241]LogSavePackage: Moving '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/Damage_Test_Actor_BP_Auto31B8354B0484E9094590C43BA98A61B73.tmp' to '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/Autosaves/Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP_Auto3.uasset'
+[2023.09.24-13.42.01:699][241]LogFileHelpers: Auto-saving content packages took 0.185
+[2023.09.24-13.43.00:148][148]BlueprintLog: New page: Compile Damage_Test_Actor_BP
+[2023.09.24-13.43.00:259][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.09.24-13.43.01:349][251]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.24-13.43.01:356][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.24-13.43.01:356][251]PIE: New page: PIE session: AnimationTest_LVL (25-Sep-2023, 12:43:01 am)
+[2023.09.24-13.43.01:356][251]LogPlayLevel: Creating play world package: /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL
+[2023.09.24-13.43.01:359][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002425s)
+[2023.09.24-13.43.01:359][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL.AnimationTest_LVL to /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL.AnimationTest_LVL (0.002473s)
+[2023.09.24-13.43.01:359][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.43.01:359][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.43.01:360][251]LogAIModule: Creating AISystem for world AnimationTest_LVL
+[2023.09.24-13.43.01:360][251]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2023.09.24-13.43.01:386][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.09.24-13.43.01:390][251]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.09.24-13.43.01:390][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.24-13.43.01:390][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.24-13.43.01:390][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.24-13.43.01:390][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.24-13.43.01:390][251]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.24-13.43.01:390][251]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.24-13.43.01:390][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.24-13.43.01:390][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.24-13.43.01:390][251]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.24-13.43.01:390][251]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.24-13.43.01:390][251]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.24-13.43.01:393][251]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.24-13.43.01:487][251]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.09.24-13.43.01:487][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.24-13.43.01:487][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.24-13.43.01:487][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.24-13.43.01:488][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.09.24-13.43.01:491][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.09.24-13.43.01:491][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.09.24-13.43.01:491][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.09.24-13.43.01:491][251]LogInit: FAudioDevice initialized with ID 5.
+[2023.09.24-13.43.01:491][251]LogAudio: Display: Audio Device (ID: 5) registered with world 'AnimationTest_LVL'.
+[2023.09.24-13.43.01:491][251]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.09.24-13.43.01:702][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-13.43.01:751][251]LogLoad: Game class is 'Testing_GM_BP_C'
+[2023.09.24-13.43.01:755][251]LogWorld: Bringing World /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL.AnimationTest_LVL up for play (max tick rate 0) at 2023.09.24-19.13.01
+[2023.09.24-13.43.01:756][251]LogWorld: Bringing up level for play took: 0.004546
+[2023.09.24-13.43.01:790][251]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.09.24-13.43.01:858][251]PIE: Server logged in
+[2023.09.24-13.43.01:862][251]PIE: Play in editor total start time 0.506 seconds.
+[2023.09.24-13.43.01:908][251]LogViewport: Scene viewport resized to 1286x750, mode Windowed.
+[2023.09.24-13.43.04:056][351]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.LeftThigh Manny_ThighL
+[2023.09.24-13.43.04:068][352]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.RightThigh Manny_ThighR
+[2023.09.24-13.43.04:114][355]LogBlueprintUserMessages: [Projectile_Test_BP_C_0] NoDamageComponentFound!
+[2023.09.24-13.43.13:723][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-13.43.13:723][990]LogWorld: BeginTearingDown for /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL
+[2023.09.24-13.43.13:724][990]LogSlate: Window 'PhysicalCombat Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.09.24-13.43.13:733][990]LogWorld: UWorld::CleanupWorld for AnimationTest_LVL, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.43.13:733][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.43.13:737][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.24-13.43.13:744][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.43.13:772][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.24-13.43.13:772][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.09.24-13.43.13:773][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.24-13.43.13:774][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.24-13.43.13:787][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.09.24-13.43.13:801][991]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.09.24-13.43.17:769][438]BlueprintLog: New page: Compile Damage_Test_Actor_BP
+[2023.09.24-13.43.17:887][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.09.24-13.43.20:774][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.24-13.43.20:782][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.24-13.43.20:782][757]PIE: New page: PIE session: AnimationTest_LVL (25-Sep-2023, 12:43:20 am)
+[2023.09.24-13.43.20:782][757]LogPlayLevel: Creating play world package: /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL
+[2023.09.24-13.43.20:785][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002289s)
+[2023.09.24-13.43.20:785][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL.AnimationTest_LVL to /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL.AnimationTest_LVL (0.002331s)
+[2023.09.24-13.43.20:785][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-13.43.20:785][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-13.43.20:785][757]LogAIModule: Creating AISystem for world AnimationTest_LVL
+[2023.09.24-13.43.20:786][757]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2023.09.24-13.43.20:813][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.09.24-13.43.20:817][757]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.09.24-13.43.20:817][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.24-13.43.20:817][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.24-13.43.20:817][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.24-13.43.20:817][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.24-13.43.20:817][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.24-13.43.20:817][757]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.24-13.43.20:817][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.24-13.43.20:817][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.24-13.43.20:818][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.24-13.43.20:818][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.24-13.43.20:818][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.24-13.43.20:820][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.24-13.43.20:915][757]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.09.24-13.43.20:916][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.24-13.43.20:916][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.24-13.43.20:916][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.24-13.43.20:917][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.09.24-13.43.20:917][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.09.24-13.43.20:919][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.09.24-13.43.20:919][757]LogInit: FAudioDevice initialized with ID 6.
+[2023.09.24-13.43.20:919][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.09.24-13.43.20:919][757]LogAudio: Display: Audio Device (ID: 6) registered with world 'AnimationTest_LVL'.
+[2023.09.24-13.43.20:919][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.09.24-13.43.20:987][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-13.43.20:987][757]LogLoad: Game class is 'Testing_GM_BP_C'
+[2023.09.24-13.43.20:993][757]LogWorld: Bringing World /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL.AnimationTest_LVL up for play (max tick rate 0) at 2023.09.24-19.13.20
+[2023.09.24-13.43.20:994][757]LogWorld: Bringing up level for play took: 0.006599
+[2023.09.24-13.43.20:996][757]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.09.24-13.43.21:002][757]PIE: Server logged in
+[2023.09.24-13.43.21:005][757]PIE: Play in editor total start time 0.223 seconds.
+[2023.09.24-13.43.21:014][757]LogViewport: Scene viewport resized to 1288x760, mode Windowed.
+[2023.09.24-13.43.22:621][850]LogBlueprintUserMessages: [Damage_Test_Actor_BP_C_1] Damage_Test_Actor_BP.RightThigh Manny_ThighR
+[2023.09.24-13.43.22:707][856]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2023.09.24-13.43.27:194][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-13.43.27:195][153]LogWorld: BeginTearingDown for /Game/PhysicalCombatProject/Levels/TestingLevels/UEDPIE_0_AnimationTest_LVL
+[2023.09.24-13.43.27:196][153]LogSlate: Window 'PhysicalCombat Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.09.24-13.43.27:207][153]LogWorld: UWorld::CleanupWorld for AnimationTest_LVL, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.43.27:207][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.43.27:211][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.24-13.43.27:219][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.43.27:247][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.24-13.43.27:248][153]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.09.24-13.43.27:248][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.24-13.43.27:250][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.24-13.43.27:263][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.09.24-13.43.27:281][154]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.09.24-13.43.54:504][588]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.43.54:505][588]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.43.54:506][588]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.43.54:506][588]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.43.54:507][588]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.24-13.43.56:277][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.09.24-13.43.56:328][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.09.24-13.43.57:859][683]LogSlate: Window 'Save Content' being destroyed
+[2023.09.24-13.43.57:895][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-13.43.58:122][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.09.24-13.43.58:154][683]LogSavePackage: Moving output files for package: /Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL
+[2023.09.24-13.43.58:154][683]LogSavePackage: Moving '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/AnimationTest_LVLAC413AEE42EFF32B9719F1AE1FC10871.tmp' to '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL.umap'
+[2023.09.24-13.43.58:231][683]LogFileHelpers: Saving map 'AnimationTest_LVL' took 0.199
+[2023.09.24-13.43.58:233][683]LogSavePackage: Moving output files for package: /Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl
+[2023.09.24-13.43.58:233][683]LogSavePackage: Moving '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/Damage_Anim_Crawl93CEADE14132038DC3044191B83FD494.tmp' to '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl.uasset'
+[2023.09.24-13.43.58:315][683]LogSavePackage: Moving output files for package: /Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP
+[2023.09.24-13.43.58:315][683]LogSavePackage: Moving '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Saved/Damage_Test_Actor_BPAB65F924406AB54B4F4AF6B31117FA06.tmp' to '../../../../../Unreal Projects/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP.uasset'
+[2023.09.24-13.43.58:327][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 432 ms (total: 2.10 sec)
+[2023.09.24-13.43.58:402][683]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.24-13.43.58:403][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/PhysicalCombatProject/Assets/Animations/UE5_DamageAct/Damage_Anim_Crawl.Damage_Anim_Crawl
+[2023.09.24-13.43.58:403][683]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PhysicalCombatProject/Assets/TestAssets/Damage_Test_Actor_BP.Damage_Test_Actor_BP
+[2023.09.24-13.43.58:403][683]LogContentValidation: Display: Validating /Script/Engine.World /Game/PhysicalCombatProject/Levels/TestingLevels/AnimationTest_LVL.AnimationTest_LVL
+[2023.09.24-13.44.36:606][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.09.24-13.44.36:627][ 90]LogStall: Shutdown...
+[2023.09.24-13.44.36:764][ 90]LogStall: Shutdown complete.
+[2023.09.24-13.44.37:110][ 90]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.44.37:110][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.44.37:964][ 90]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.44.37:964][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.44.38:102][ 90]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.44.38:102][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.44.38:222][ 90]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.44.38:222][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.44.38:817][ 90]LogSlate: Window 'PhysicalCombat - Unreal Editor' being destroyed
+[2023.09.24-13.44.40:890][ 91]Cmd: QUIT_EDITOR
+[2023.09.24-13.44.40:911][ 91]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.09.24-13.44.41:092][ 91]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.09.24-13.44.41:092][ 91]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.09.24-13.44.41:113][ 91]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.09.24-13.44.41:237][ 91]LogWorld: UWorld::CleanupWorld for AnimationTest_LVL, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.44.41:237][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-13.44.42:402][ 91]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.09.24-13.44.42:956][ 91]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.09.24-13.44.47:509][ 91]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.09.24-13.44.47:509][ 91]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.09.24-13.44.47:509][ 91]LogAudio: Display: Audio Device unregistered from world 'AnimationTest_LVL'.
+[2023.09.24-13.44.47:509][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.09.24-13.44.47:512][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.24-13.44.47:532][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.24-13.44.49:119][ 91]LogAudio: Display: Audio Device Manager Shutdown
+[2023.09.24-13.44.49:587][ 91]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.09.24-13.44.49:790][ 91]LogExit: Preparing to exit.
+[2023.09.24-13.44.52:909][ 91]LogUObjectHash: Compacting FUObjectHashTables data took  18.96ms
+[2023.09.24-13.44.52:940][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.52:972][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:264][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:297][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:316][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:316][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:316][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:316][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:346][ 91]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.44.53:388][ 91]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.24-13.45.04:841][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:841][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:842][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:842][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:842][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:842][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:842][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:842][ 91]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.04:843][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:843][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:843][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:843][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:843][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:843][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:843][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:843][ 91]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.04:844][ 91]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.04:861][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:861][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:861][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:861][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:861][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:861][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:861][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:861][ 91]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.04:863][ 91]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.04:864][ 91]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.04:864][ 91]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.04:865][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:865][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:865][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:865][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:865][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:865][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:865][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:865][ 91]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.04:866][ 91]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.04:867][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:867][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:867][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:867][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:867][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:867][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:867][ 91]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.09.24-13.45.04:867][ 91]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-13.45.06:202][ 91]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.09.24-13.45.06:994][ 91]LogExit: Editor shut down
+[2023.09.24-13.45.07:487][ 91]LogExit: Transaction tracking system shut down
