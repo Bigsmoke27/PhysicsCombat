@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Sword_And_Shield_Death.uasset",
-				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Some_Basics/Sword_Bel.uasset",
 				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Some_Basics/draw_sword_1.uasset",
 				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Some_Basics/sheath_sword_1.uasset",
 				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Some_Basics/sword_and_shield_attack.uasset",
@@ -24,6 +23,8 @@
 				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Some_Basics/sword_and_shield_strafe__2_.uasset",
 				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Some_Basics/sword_and_shield_turn.uasset",
 				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Some_Basics/sword_and_shield_turn__2_.uasset",
+				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Some_Basics/NewBlendSpace1D.uasset",
+				"D:/Drive-E/Unreal Games/PhysicsCombat/PhysicalCombat/Content/PhysicalCombatProject/Assets/Animations/Mixamo/Some_Basics/Sword_Bel.uasset",
 				"D:/Drive-E/Unreal Projects/PhysicsCombat/PhysicalCombat/Content/Epic/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"D:/Drive-E/Unreal Projects/PhysicsCombat/PhysicalCombat/Content/__ExternalActors__/PhysicalCombatProject/Added_Assets/FP_Content_Pack/FirstPerson/Maps/FirstPersonMap/A/1I/Z9QJU2S1VGU3AGV1579SGN.uasset",
 				"D:/Drive-E/Unreal Projects/PhysicsCombat/PhysicalCombat/Content/__ExternalObjects__/PhysicalCombatProject/Added_Assets/FP_Content_Pack/FirstPerson/Maps/FirstPersonMap/E/KK/MAG7VIPAUSFZC8WQ7H7VD7.uasset",
